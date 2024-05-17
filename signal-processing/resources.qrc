@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="noun-add-bookmark.svg">resources/noun-add-bookmark.svg</file>
+    <file alias="noun-plus-circle.svg">resources/noun-plus-circle.svg</file>
+    <file alias="noun-save.svg">resources/noun-save.svg</file>
+    <file alias="noun-upload.svg">resources/noun-upload.svg</file>
+</qresource>
+</RCC>
